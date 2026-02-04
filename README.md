@@ -1,2 +1,3 @@
 ### Discord Moderation Bot for a Data Science Community Server (In Progress)
-A Discord moderation bot is being developed for a data science community server to assist with message moderation, spam control, and rule enforcement.
+
+This project involves the development of a Discord moderation bot designed for a data science community server. The bot assists moderators by monitoring message activity, detecting spam and rule violations, and enforcing community guidelines. Collected message data will be used to support analytics and future machine learning–based moderation capabilities.
